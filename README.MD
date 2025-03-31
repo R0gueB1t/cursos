@@ -13,3 +13,6 @@ __bold1__
 _italicas2_
 
 ~~estamos escribiendo un texto tachado~~
+
+[añadimos funcionalidad de Link](wwww.google.es)
+ 
